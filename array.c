@@ -17,6 +17,7 @@ int viewElement(void);
 int addElement(void);
 int updateElement(void);
 int deleteElement(void);
+int smallest(void);
 
 
 int main() {
@@ -27,6 +28,7 @@ int main() {
     viewElement();
     deleteElement();
     viewElement();
+    smallest();
     
     return 0;
 }
@@ -79,8 +81,21 @@ int deleteElement()
 {
     printf("Enter the postion you want to delete :");
     scanf("%d",&pos);
-    for (i=pos; i<=size; i++) {
+    for (i=pos-1; i<size-1; i++) {
         a[i]=a[i+1];
     }
+    size--;
+    return 0;
+}
+
+int smallest()
+{
+    int small = a[0];
+    for (i=0; i<size; i++) {
+        if (a[i]>small) {
+            small=a[i];
+        }
+    }
+    printf("\nSmallest Number is :%d",small);
     return 0;
 }
