@@ -26,9 +26,6 @@ int main()
     push(15);
     push(20);
     push(56);
-    push(56);
-    push(56);
-    push(56);
     
     isEmpty();
     pop();
