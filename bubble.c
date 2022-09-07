@@ -3,7 +3,7 @@
 //  collage
 //
 //  Created by Sahil Dabhilkar on 07/09/22.
-//
+// Bubble sort on array 
 
 #include <stdio.h>
 int main()
