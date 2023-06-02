@@ -1,6 +1,6 @@
 //
 //  Selection.c
-//  collage
+//  College 
 //
 //  Created by Sahil Dabhilkar on 15/09/22.
 //
