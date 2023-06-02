@@ -1,6 +1,6 @@
 //
 //  linear.c
-//  collage
+//  College 
 //
 //  Created by Sahil Dabhilkar on 10/09/22.
 //
