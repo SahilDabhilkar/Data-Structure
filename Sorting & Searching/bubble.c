@@ -1,6 +1,6 @@
 //
 //  graphic.c
-//  collage
+//  College 
 //
 //  Created by Sahil Dabhilkar on 07/09/22.
 //
