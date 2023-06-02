@@ -1,6 +1,6 @@
 //
 //  queue.c
-//  
+//  College 
 //
 //  Created by Sahil Dabhilkar on 28/08/22.
 //
