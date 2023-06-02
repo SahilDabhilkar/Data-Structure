@@ -1,6 +1,6 @@
 //
 //  main.c
-//  collage
+//  College 
 //
 //  Created by Sahil Dabhilkar on 24/08/22.
 //
