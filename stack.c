@@ -1,6 +1,6 @@
 //
 //  stack.c
-//  collage
+//  College 
 //
 //  Created by Sahil Dabhilkar on 25/08/22.
 
